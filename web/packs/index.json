@@ -2,7 +2,8 @@
   "packs": [
     "catstickerpack.json",
     "ProtogensbyPulex.json",
-    "foxflea.json"
+    "foxflea.json",
+    "huskydogpack.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
