@@ -4,7 +4,9 @@
     "ProtogensbyPulex.json",
     "foxflea.json",
     "huskydogpack.json",
-    "RedPandasbyPulex.json"
+    "RedPandasbyPulex.json",
+    "FennecsByPulex.json",
+    "WolvesByPulex.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
